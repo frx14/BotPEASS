@@ -24,14 +24,19 @@ DESCRIPTION_KEYWORDS:
 
 PRODUCT_KEYWORDS_I:
 - sudo
-- docker
 - kubernetes
 - lxc
-- podman
-- container
 - Fortinet
 - GLPI
 - PaloAlto
+- Ubuntu
+- Windows
+- Checkpoint
+- Defender
+- Office
+- Azure
+- Intune
+- Microsoft
 
 PRODUCT_KEYWORDS:
 - ThisIsACaseSensitiveExample
