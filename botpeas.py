@@ -8,7 +8,6 @@ import vulners
 
 from os.path import join
 from enum import Enum
-from discord import Webhook, RequestsWebhookAdapter
 
 
 CIRCL_LU_URL = "https://cve.circl.lu/api/query"
