@@ -39,6 +39,20 @@ PRODUCT_KEYWORDS_I:
 - Microsoft
 - Pandora
 - VNC
+- Splunk
+- LimeSurvey
+- OCS
+- Apache
+- PHP
+- Mysql
+- Adobe
+- Moodle
+- Java
+- Putty
+- Winscp
+- Tomcat
+- Nginx
+- GlassFish
 
 PRODUCT_KEYWORDS:
 - ThisIsACaseSensitiveExample
