@@ -37,6 +37,8 @@ PRODUCT_KEYWORDS_I:
 - Azure
 - Intune
 - Microsoft
+- Pandora
+- VNC
 
 PRODUCT_KEYWORDS:
 - ThisIsACaseSensitiveExample
